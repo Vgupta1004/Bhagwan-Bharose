@@ -68,6 +68,8 @@
       font-size: 16px;
       border: none;
       cursor: pointer;
+      font-family: Georgia, serif;
+      font-size: larger;
     }
     
     .dropdown {
